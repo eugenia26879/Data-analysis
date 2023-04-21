@@ -5,7 +5,7 @@ ____
 ### [Games](https://github.com/eugenia26879/Data-analysis/blob/main/games.ipynb)
 
 We need to identify the patterns that determine the most successful games. 
-This will allow you to bid on a potentially popular product and plan advertising campaigns.
+
 ____
 ### [Final_app](https://github.com/eugenia26879/Data-analysis/blob/main/final_app/ab_f.ipynb)
 

@@ -1,6 +1,7 @@
 # Data-analysis
 This repository is a collection of completed projects
-
+____
+### [Dashboard](https://public.tableau.com/views/Event_zh/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ____
 ### [Games](https://github.com/eugenia26879/Data-analysis/blob/main/games.ipynb)
 

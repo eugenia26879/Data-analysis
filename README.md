@@ -2,6 +2,14 @@
 This repository is a collection of completed projects
 ____
 ### [Dashboard](https://public.tableau.com/views/Event_zh/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+____
+### [Marketing_costs](https://github.com/eugenia26879/Data-analysis/blob/main/marketing_costs/marketing.ipynb)
+
+Despite huge investments in advertising, the company has been losing money for the past few months. 
+Our task is to understand the reasons and help the marketing department to make their campaigns profitable.
+
+Calculating and plotting LTV, ROI, Retention Rate and Conversion. 
 ____
 ### [Games](https://github.com/eugenia26879/Data-analysis/blob/main/games.ipynb)
 

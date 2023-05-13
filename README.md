@@ -1,7 +1,7 @@
 # Data-analysis
 This repository is a collection of completed projects
 
-__
+___
 ### [Marketing_costs](https://github.com/eugenia26879/Data-analysis/blob/main/marketing_costs/marketing.ipynb)
 
 Despite huge investments in advertising, the company has been losing money for the past few months. 

@@ -1,9 +1,6 @@
 # Data-analysis
 This repository is a collection of completed projects
-____
-### [Dashboard](https://public.tableau.com/views/Event_zh/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-____
+__
 ### [Marketing_costs](https://github.com/eugenia26879/Data-analysis/blob/main/marketing_costs/marketing.ipynb)
 
 Despite huge investments in advertising, the company has been losing money for the past few months. 
@@ -25,3 +22,6 @@ ____
 The dataset contains data about events that took place in "Unnecessary Things" mobile application. 
 There users sell their unwanted items by posting them on the main board.
 Calculated the following metrics: retention rate, time spent in the application, frequency of actions and conversion into a target action - viewing contacts.
+____
+### [Dashboard](https://public.tableau.com/views/Event_zh/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
